@@ -11,6 +11,10 @@ public class ExceptionTet2 {
 		int value2 = Integer.parseInt(data2);
 		
 		System.out.println("value1 + value2");
+		
+		System.out.println(value1);
+		System.out.println(value2);
+		System.out.println("12345678");
 
 	}
 
